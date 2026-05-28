@@ -4,7 +4,7 @@ AI-powered terminal code assistant. Inspired by Cursor, built for people who liv
 Free. The only limit is your API budget.
 
 Installation
-bashgit clone https://github.com/you/progter
+bashgit clone https://github.com/Polishmatixs/progter
 cd progter
 pip install -e .
 On Linux:
