@@ -1,0 +1,2 @@
+[console_scripts]
+progter = progter.cli:main
